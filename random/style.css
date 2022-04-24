@@ -25,7 +25,7 @@ a:hover {
 html,
 body {
   height: 100%;
-  background-image: url("https://images.unsplash.com/photo-1421930535025-d2af27c14065?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=686e760fd53bcab95e052a3f3747c11d");
+  /*background-image: url("https://images.unsplash.com/photo-1421930535025-d2af27c14065?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&w=1080&fit=max&s=686e760fd53bcab95e052a3f3747c11d");*/
   background-size: cover;
   background-color: #333;
 }
